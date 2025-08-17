@@ -12,7 +12,7 @@ Create • Read • Update • Delete — All in one elegant GUI.
 ## 🚀 Features
 ✅ Add new Footwear items to MongoDB  
 ✅ View stored records with a user-friendly interface  
-✅ Update existing jewellery details  
+✅ Update existing Footwear details  
 ✅ Delete unwanted records instantly  
 ✅ Beautiful Tkinter GUI with custom-styled buttons  
 
